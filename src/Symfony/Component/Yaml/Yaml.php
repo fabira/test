@@ -74,6 +74,11 @@ class Yaml
         }
     }
 
+	public function afficher
+	{	
+		echo "coucou";
+	}
+
     /**
      * Dumps a PHP array to a YAML string.
      *
