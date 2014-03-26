@@ -76,7 +76,7 @@ class Yaml
 
 	public function afficher
 	{	
-		echo "coucou";
+		echo "coucou branch";
 	}
 
     /**
